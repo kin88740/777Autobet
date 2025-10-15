@@ -1,0 +1,24 @@
+{
+  "name": "777bigwin-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot for automated betting on 777BigWin platform",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.12.2"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "betting",
+    "automation",
+    "777bigwin"
+  ],
+  "author": "",
+  "license": "ISC"
+}
